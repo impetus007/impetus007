@@ -9,8 +9,11 @@
 <p align="center">
     - 🌱 I love to do learning/exploring Web Development and other programming languages
 <br>
+    
     - 📫 How to reach me **vishal2219singh@gmail.com**
 <br>
+    
+   
     - ⚡ Fun fact :- food and Amazing Facts are the reasons to live.
 </p>
 <br>
@@ -102,4 +105,4 @@
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-                                                          [impetus](https://github.com/impetus007)
+[impetus](https://github.com/impetus007)
