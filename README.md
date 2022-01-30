@@ -9,11 +9,10 @@
 <p align="center">
     - 🌱 I love to do learning/exploring Web Development and other programming languages
 <br>
-    
+    <br>
     - 📫 How to reach me **vishal2219singh@gmail.com**
 <br>
-    
-   
+    <br>
     - ⚡ Fun fact :- food and Amazing Facts are the reasons to live.
 </p>
 <br>
